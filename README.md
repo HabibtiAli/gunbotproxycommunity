@@ -2,13 +2,6 @@
 Free Proxy for Gunbot on Poloniex
 <br />
 
-# Looking for ProxyBot?
-https://github.com/taniman/proxy-bot/
-
-# Join the telegram group
-If you have questions after reading the readme
-https://t.me/joinchat/FWYlMkKK-mkrSuj836ehug
-
 # Another guide
 <a href="https://gunthy.org/index.php?topic=570.msg3080#msg3080">Diesel's Guide</a>
 
